@@ -1,0 +1,32 @@
+header {
+    background-color: greenyellow;
+    padding-bottom: 30px;
+    border-radius: 15px;
+}
+
+nav {
+    background-color: green;
+    border-radius: 30px;
+    padding-top: 10px;
+}
+
+.as1 {
+    background-color: orange;
+    dis: 20%;
+}
+
+.as2 {
+    background-color: orange;
+}
+
+main {
+    background-color: red;
+}
+
+article {
+    background-color: white;
+}
+
+footer {
+    background-color: violet;
+}
